@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400;1,9..144,600&family=Nunito:wght@300;400;500;600;700&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --font-display: 'Fraunces', serif;
+  --font-body: 'Nunito', sans-serif;
+
+  --color-blush-50: #fff0f3;
+  --color-blush-100: #ffe2e8;
+  --color-blush-200: #ffc9d6;
+  --color-blush-300: #ffa0b8;
+  --color-blush-400: #ff6b95;
+  --color-blush-500: #f83b72;
+  --color-blush-600: #e5184f;
+  --color-blush-700: #c10e3e;
+  --color-blush-800: #a20f38;
+  --color-blush-900: #891035;
+
+  --color-rose-soft: #fdf2f5;
+  --color-petal: #fce7ed;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito', sans-serif;
+  background: #fdf2f5;
+}
+
+::-webkit-scrollbar { width: 0; height: 0; }
+
+.font-display {
+  font-family: 'Fraunces', serif;
+}
+
+.font-body {
+  font-family: 'Nunito', sans-serif;
+}
