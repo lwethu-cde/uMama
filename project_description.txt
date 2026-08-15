@@ -1,0 +1,14 @@
+These are a list of problems we could solve and the ideas we have to try and solve them:
+
+****************HEALTHCARE****************
+Problem:
+	Women in South Africa struggle to access reproductive health information in their local language
+Solution:
+	Our solution would be building an app that not only allows them to track their cycle but also get access to reproductive health info
+	in their local language.They can use the AI chatbot to input their symptoms and it can give them info on their reproductive health. Chatbot
+	can also map nearby donation points for free pads, and nearby clinics or hospitals.
+	Languages : English, Zulu, Xhosa, Afrikaans
+App name:
+	uMama(Mother/nurturer): Reproductive health is a journey that women shouldn't have to walk alone. uMama is a chatbot that will hold your hand
+	as you walk that journey. It will advise and teach women regarding their reproductive health. uMama will be your reproductive health mentor. 
+*****************************************
