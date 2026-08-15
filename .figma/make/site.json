@@ -1,0 +1,10 @@
+{
+  "description": "Empowers South African women with cycle tracking, reproductive health info, symptom-based AI guidance, and local resource mapping in multiple languages.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
